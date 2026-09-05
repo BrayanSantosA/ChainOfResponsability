@@ -2,4 +2,4 @@
 
 Este es el diagrama que representa el patrón:
 
-![Diagrama Chain of Responsibility](./diagramas/chain.png)
+![Diagrama Chain of Responsibility](Chain of responsability.drawio.png)
